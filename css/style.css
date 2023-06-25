@@ -1,0 +1,244 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    
+    height: 650px;
+    background-image: url(../img/cabecera.jpg);
+    background-repeat: no-repeat;
+
+}
+span{
+    color: #1293d4;
+}
+
+nav{
+    background-color: #24282B;
+}
+
+nav ul li{
+     margin: 20px;
+     float: left;
+    list-style: none;
+}
+nav h1{
+    float: left;
+    color: aliceblue;
+    margin: 20px;
+    
+}
+nav ul{
+    float: right;
+}
+.linea{
+    background-color: #1293d4;
+    height: 3px;
+}
+a{
+    color:rgb(255, 255, 255);
+    text-decoration: none;
+}
+a:hover{
+    color: #1293d4;
+}
+.info h1{
+    font-size: 50px;
+    margin: 150px 0 0 0;
+    color: #fff;
+    text-align: center;
+}
+
+.hola{
+    text-align: center;
+    color: #fff;
+    margin: 10px 150px 0 ;
+}
+.sub{
+    
+    background-color: #24282B;
+    padding: 10px;
+}
+
+.titulo{ 
+    float: left;
+    margin: 20px 0 20px 50px;
+
+    color: aliceblue;
+}
+
+.contenido button{
+    float: right;
+    width: 8%;
+    padding: 10px;
+    margin: 20px 40px 20px 0;
+    background-color: #E8491D;
+    
+}
+
+.contenido input{
+    float: left;
+    margin: 20px 0 20px 607px;
+    padding: 10px;
+}
+
+.fotos{
+    float: left;
+}
+
+.lenguajes{
+    text-align: center;
+}
+
+.fotos{
+   margin: 10px 40px 10px 120px;
+}
+
+.fotos h4{
+    width: 220px;
+}
+
+footer{
+    padding: 30px;
+    text-align: center;
+    background-color: #1293d4;
+
+}
+
+/*contacto*/
+
+
+.contacto h2{
+    margin: 10px 0;
+}
+
+h5{
+    margin: 5px 0 0 0;
+}
+
+
+.contacto input,textarea{
+    width: 50%;
+    padding: 10px;
+}
+
+textarea{
+    padding: 60px;
+}
+
+.contacto button{
+    background-color: #E8491D;
+    width: 50%;
+    padding: 10px;
+    margin: 5px 0;
+}
+
+.foto img{
+    float: right;
+    width: 462px;
+    height: 280px;
+}
+
+/*servicio*/
+
+
+.hacemos {
+    color: #fff;
+    float: right;
+    margin: 20px 0;
+    background-color: #35424A;
+    width: 40%;
+    
+}
+
+.hacemos h2{
+    margin: 10px;
+}
+
+.hacemos p{
+    margin: 0 20px 10px 20px;
+}
+
+.servi{
+    
+    margin: 10px;
+}
+
+.servicios{
+    
+    width: 55%;
+    height: 500px;
+}
+
+.informacion h2{
+    margin: 10px;
+}
+
+.informacion p{
+    margin: 10px;
+}
+.informacion{
+    padding: 20px;
+    margin: 10px 0;
+    background-color: rgb(230, 230, 230);
+}
+footer{
+    margin: 200px 0 0 0;
+}
+
+/*nosotros*/
+
+.primero h2{
+    margin: 20px 0;
+}
+
+.primero{
+    
+    float: left;
+    width: 55%;
+}
+
+.hacemos {
+    color: rgb(255, 255, 255);
+    float: right;
+    margin: 20px 0;
+    background-color: #35424A;
+    width: 40%;
+    
+}
+
+.hacemos h2{
+    margin: 20px;
+}
+
+.hacemos p{
+    margin: 0 20px 10px 20px;
+}
+
+.tercero{
+    color: #fff;
+    margin: 10px 0;
+    float: left;
+    background-color: #35424A;
+    width: 55%;
+}
+
+.tercero p{
+    margin: 15px;
+}
+
+main{
+    margin: 0 150px;
+    height: 500px;
+}
+
+.grande input{
+    padding: 90px;
+}
+
+.clear{
+    clear: both;
+}
+
